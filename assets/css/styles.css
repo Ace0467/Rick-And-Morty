@@ -1,0 +1,68 @@
+body{
+
+    background-image: url(../img/1.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.card{
+
+    background: transparent!important;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 98%), 0 0 0 1px rgb(10 10 10 / 15%)!important;
+
+}
+
+#hero{
+
+    background-color: transparent;
+
+}
+
+.button.is-info {
+    background-color: #222!important;
+}
+
+.hero-body {
+    margin: 0 auto;
+}
+
+.card-content{
+
+    background-color: rgb(0, 0, 0, .6)!important;
+    
+}
+
+.name{
+
+    color: white!important;
+
+}
+
+.species{
+
+    color: white!important;
+
+}
+
+.status{
+
+    color: white!important;
+
+}
+
+footer{
+
+    margin-top: 2em;
+    background-color: rgb(12, 12, 12)!important;
+    padding: 4rem 1.5rem!important;
+
+}
+
+footer p a{
+
+    
+
+}
