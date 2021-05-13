@@ -12,6 +12,45 @@ body{
 
     background: transparent!important;
     box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 98%), 0 0 0 1px rgb(10 10 10 / 15%)!important;
+    color: white!important;
+
+}
+
+#cardsEpisodes .media-content{
+
+padding: 1.5rem;
+
+}
+
+#cardsEpisodes .content{
+
+text-align: center;
+padding: .5rem;
+
+}
+
+#cardsLocations .media-content{
+
+    padding: 1.5rem;
+    
+}
+
+#cardsLocations .content{
+
+    text-align: center;
+    padding: .5rem;
+    
+}
+    
+.searchNone{
+
+    display: none;
+
+}
+
+.subtitle{
+
+   color: white!important;
 
 }
 
@@ -27,6 +66,21 @@ body{
 
 .hero-body {
     margin: 0 auto;
+}
+
+.tabs li.is-active {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+.tabs li.is-active a {
+    border-bottom-color: #00b0c8!important;
+    color: #00b0c8!important;
+}
+
+.tabs li a {
+    border-bottom-color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 255, 255, 0.75);
 }
 
 .card-content{
@@ -58,11 +112,5 @@ footer{
     margin-top: 2em;
     background-color: rgb(12, 12, 12)!important;
     padding: 4rem 1.5rem!important;
-
-}
-
-footer p a{
-
-    
 
 }
